@@ -24,3 +24,6 @@ git-diff a commitok közötti a különbségeket,állapotokat mutatja meg.
 git log és itt lehet a bashos kereséseket használni mint például grepelni, pipolni, stb.
 1. Melyik git parancsot használnád, hogy megtudd milyen állapotban van épp a repo?
 git status
+
+
+4.feladat: git log node-express-app.js
